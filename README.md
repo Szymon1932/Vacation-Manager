@@ -18,5 +18,4 @@ Aplikacja została zrealizowana przy użyciu następujących technologii:
 
 - Język programowania: Java
 - Zewnętrzne API: TravelPayouts
-- Dodatkowe biblioteki i frameworki: (opcjonalnie wymienić użyte biblioteki lub frameworki, jeśli są zastosowane)
 
